@@ -1,2 +1,2 @@
 # E-commerse-site
-An online shopping portal. It is created using php and MySql.
+An online shopping portal. It is created using Html, CSS, JavaScript,php and MySql.
